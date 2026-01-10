@@ -1,7 +1,7 @@
 ## Hello, I'm Kristijan. 👋
 
 ## 🚀 About Me
-- 💻 I'm an undergraduate of Computer Engineering
+- 💻 B.Sc. in Computer Engineering
 - 🌱 Currently getting better at **C#**
 
 ## 🛠 Tech Stack
