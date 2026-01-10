@@ -28,9 +28,22 @@
 
 ## 📌 Projects
 
-| Category        | Project |
-|-----------------|---------|
-| Web App         | [React CV Generator](https://github.com/KristijanTuric/cv-application) |
-| Web App         | [Knights Travails](https://github.com/KristijanTuric/odin-knights-travails) |
-| Web App         | [ToDo List](https://github.com/KristijanTuric/odin-todo-list) |
-| Web App         | [Weather App](https://github.com/KristijanTuric/odin-weather-app) |
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Project</th>
+  </tr>
+  <tr>
+    <td rowspan="4" align="center"><b>Web App</b></td>
+    <td><a href="https://github.com/KristijanTuric/cv-application">React CV Generator</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/KristijanTuric/odin-knights-travails">Knights Travails</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/KristijanTuric/odin-todo-list">ToDo List</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/KristijanTuric/odin-weather-app">Weather App</a></td>
+  </tr>
+</table>
