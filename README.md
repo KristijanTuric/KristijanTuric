@@ -76,7 +76,9 @@
 
 ## 📊 GitHub Stats
 
-![KristijanTuric's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristijanTuric&show_icons=true&theme=tokyonight)
+![KristijanTuric's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristijanTuric&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KristijanTuric&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
