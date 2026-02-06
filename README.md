@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td rowspan="1" align="center"><b>🚀 Full Stack Apps</b></td>
-    <td><a href="https://github.com/KristijanTuric/your-fullstack-app">Job Tracker</a></td>
+    <td><a href="https://github.com/KristijanTuric/job-tracker">Job Tracker</a></td>
     <td>Job application management system built with .NET Core, EF Core, and PostgreSQL for tracking applications and monitoring their status</td>
   </tr>
   <tr>
